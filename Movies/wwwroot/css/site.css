@@ -24,7 +24,7 @@ for details on configuring this project to bundle and minify static web assets. 
 
 .movie-entry .reviews > div {
     color: gray;
-    border: 1px gray;
+    border: 1px solid gray;
     width: 100px;
     text-align: center;
     padding: 5px;
